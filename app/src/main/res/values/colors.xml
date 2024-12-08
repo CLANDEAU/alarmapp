@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs principales -->
+    <color name="colorPrimary">#1A237E</color> <!-- Bleu foncé -->
+    <color name="colorPrimaryDark">#0D1A56</color> <!-- Bleu encore plus foncé -->
+    <color name="colorAccent">#03A9F4</color> <!-- Bleu clair pour les boutons ou éléments interactifs -->
+
+    <!-- Couleurs de texte -->
+    <color name="textColorPrimary">#FFFFFF</color> <!-- Texte en blanc -->
+    <color name="textColorSecondary">#B0BEC5</color> <!-- Texte secondaire (gris clair) -->
+    <color name="textColorTertiary">#90A4AE</color> <!-- Texte encore plus clair -->
+
+    <!-- Couleur de fond -->
+    <color name="backgroundColor">#121212</color> <!-- Fond sombre pour l'interface -->
+
+    <!-- CardView -->
+    <color name="cardBackground">#1C1C1C</color> <!-- Fond des cartes de l'alarme -->
+
+    <!-- Couleurs du Switch -->
+    <color name="switchTrackColor">#607D8B</color> <!-- Couleur de la barre du Switch -->
+    <color name="switchThumbColor">#03A9F4</color> <!-- Couleur de la barre du Switch -->
+    <!-- Darker blue for the primary color -->
+    <color name="blue_dark">#1E3A5F</color>
+
+    <!-- Even darker blue for the primary dark color -->
+    <color name="blue_darker">#142F4C</color>
+
+    <!-- Accent blue -->
+    <color name="blue_accent">#4A90E2</color>
+
+    <!-- Black background -->
+    <color name="black">#000000</color>
+    <color name="background_dark">#121212</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#AAAAAA</color>
+
+    <!-- Couleur bleue -->
+    <color name="blue">#1E3A8A</color>
+
+    <!-- Couleurs pour le switch -->
+    <color name="switch_thumb_color">#3B82F6</color>
+    <color name="switch_track_color">#BBE0FB</color>
+
+    <!-- Couleur rouge pour l'icône de suppression -->
+    <color name="red">#F87171</color>
+
+</resources>

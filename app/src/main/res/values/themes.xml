@@ -1,0 +1,12 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Custom theme colors -->
+        <item name="colorPrimary">@color/blue_dark</item>
+        <item name="colorPrimaryDark">@color/blue_darker</item>
+        <item name="colorAccent">@color/blue_accent</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
+</resources>
